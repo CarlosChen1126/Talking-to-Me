@@ -1,0 +1,16 @@
+# Ignore the dataset folder
+# IMPORTANT: make sure that your dataset is stored in a
+# folder with the same name as the one specified below!
+
+student_data/*
+audio_files/
+hubert_features/
+__pycache__/
+split_frame_train/
+split_frame_test/
+VIS_CKPT/
+CKPT/
+*.log
+clean.sh
+DLCV_FINAL.sh
+sample_submission.csv
